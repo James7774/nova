@@ -66,7 +66,7 @@ print("=" * 70)
 TRANSLATIONS = {
     'uz_lat': {
         'select_lang': "🌍 Iltimos, tilni tanlang:\n🇷🇺 Пожалуйста, выберите язык:\n🇺🇸 Please select a language:",
-        'welcome': "✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨\n🤖 *ASSALOMU ALAYKUM, {name}!* 👋\n\n🎉 *NOVA.X* botiga xush kelibsiz! Bizni tanlaganingizdan bag'oyat xursandmiz!\n\n🚀 *Siz bu yerda:* \n— Biznesingizni rivojlantirish\n— Zamonaviy IT yechimlar\n— Va shaxsiy brendingizni yaratish imkoniyatiga egasiz\n\n💎 *Keling, birgalikda buyuk ishlarni amalga oshiramiz!*\n\n👇 *Quyidagi menyu orqali kerakli bo'limni tanlang:*",
+        'welcome': "🌟✨ **ASSALOMU ALAYKUM, HURMATLI {name}!** 👋✨\n\n💫 **NOVA.X — Raqamli kelajakka xush kelibsiz!**\nBiz sizni bu yerda ko‘rib turganimizdan bag‘oyat xursandmiz. Bu shunchaki bot emas, bu sizning biznesingiz va g‘oyalaringizni yangi bosqichga olib chiquvchi ishonchli hamkoringizdir.\n\n🚀 **Biz bilan nimalarga erishasiz?**\n🌐 *Mukammal Veb-saytlar:* Mijozlarni o‘ziga rom etuvchi dizayn.\n📱 *Mobil Ilovalar:* Biznesingiz har doim mijozingiz yonida.\n📈 *Marketing va SEO:* Brendingizni tanitish va sotuvni oshirish.\n🎨 *Kreativ Dizayn:* Esda qolarli va zamonaviy yechimlar.\n\n💎 *Sizning muvaffaqiyatingiz — bizning maqsadimiz! Keling, buyuk o‘zgarishlarni bugun boshlaymiz.*\n\n👇 **Marhamat, quyidagi menyudan kerakli bo'limni tanlang:**",
         'menu_about': "ℹ️ BIZ HAQIMIZDA",
         'menu_services': "🛠️ XIZMATLAR",
         'menu_prices': "💰 NARXLAR",
@@ -102,7 +102,7 @@ TRANSLATIONS = {
     },
     'uz_cyr': {
         'select_lang': "🌍 Илтимос, тилни танланг:",
-        'welcome': "✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨\n🤖 *АССАЛОМУ АЛАЙКУМ, {name}!* 👋\n\n🎉 *NOVA.X* ботига хуш келибсиз! Бизни танлаганингиздан бағоят хурсандмиз!\n\n🚀 *Сиз бу ерда:* \n— Бизнесингизни ривожлантириш\n— Замонавий IT ечимлар\n— Ва шахсий брендингизни яратиш имкониятига эгасиз\n\n💎 *Келинг, биргаликда буюк ишларни амалга оширамиз!*\n\n👇 *Қуйидаги меню орқали керакли бўлимни танланг:*",
+        'welcome': "🌟✨ **АССАЛОМУ АЛАЙКУМ, ҲУРМАТЛИ {name}!** 👋✨\n\n💫 **NOVA.X — Рақамли келажакка хуш келибсиз!**\nБиз сизни бу ерда кўриб турганимиздан бағоят хурсандмиз. Бу шунчаки бот эмас, бу сизнинг бизнесингиз ва ғояларингизни янги босқичга олиб чиқувчи ишончли ҳамкорингиздир.\n\n🚀 **Биз билан нималарга эришасиз?**\n🌐 *Мукаммал Веб-сайтлар:* Мижозларни ўзига ром этувчи дизайн.\n📱 *Мобил Иловалар:* Бизнесингиз ҳар доим мижозингиз ёнида.\n📈 *Маркетинг ва SEO:* Брендингизни танитиш ва сотувни ошириш.\n🎨 *Креатив Дизайн:* Эсда қоларли ва замонавий ечимлар.\n\n💎 *Сизнинг муваффақиятингиз — бизнинг мақсадимиз! Келинг, буюк ўзгаришларни бугун бошлаймиз.*\n\n👇 **Марҳамат, қуйидаги менюдан керакли бўлимни танланг:**",
         'menu_about': "ℹ️ БИЗ ҲАҚИМИЗДА",
         'menu_services': "🛠️ ХИЗМАТЛАР",
         'menu_prices': "💰 НАРХЛАР",
@@ -138,7 +138,7 @@ TRANSLATIONS = {
     },
     'ru': {
         'select_lang': "🌍 Пожалуйста, выберите язык:",
-        'welcome': "✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨\n🤖 *ПРИВЕТСТВУЕМ ВАС, {name}!* 👋\n\n🎉 Добро пожаловать в бот *NOVA.X*! Мы очень рады, что вы выбрали нас!\n\n🚀 *Здесь вы можете:* \n— Развить свой бизнес\n— Найти современные IT-решения\n— И создать свой личный бренд\n\n💎 *Давайте творить великие дела вместе!*\n\n👇 *Выберите нужный раздел в меню ниже:*",
+        'welcome': "🌟✨ **ПРИВЕТСТВУЕМ ВАС, УВАЖАЕМЫЙ(АЯ) {name}!** 👋✨\n\n💫 **Добро пожаловать в цифровое будущее с NOVA.X!**\nМы бесконечно рады видеть вас здесь. Это не просто бот, это ваш надежный партнер, который выведет ваш бизнес и идеи на новый уровень.\n\n🚀 **Что вы получите с нами?**\n🌐 *Идеальные Веб-сайты:* Дизайн, который влюбляет клиентов.\n📱 *Мобильные Приложения:* Ваш бизнес всегда рядом с клиентом.\n📈 *Маркетинг и SEO:* Продвижение бренда и рост продаж.\n🎨 *Креативный Дизайн:* Запоминающиеся и современные решения.\n\n💎 *Ваш успех — наша цель! Давайте начнем великие перемены уже сегодня.*\n\n👇 **Пожалуйста, выберите нужный раздел в меню ниже:**",
         'menu_about': "ℹ️ О НАС",
         'menu_services': "🛠️ УСЛУГИ",
         'menu_prices': "💰 ЦЕНЫ",
@@ -174,7 +174,7 @@ TRANSLATIONS = {
     },
     'en': {
         'select_lang': "🌍 Please select a language:",
-        'welcome': "✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨\n🤖 *HELLO, {name}!* 👋\n\n🎉 Welcome to *NOVA.X* bot! We are delighted that you chose us!\n\n🚀 *Here you can:* \n— Grow your business\n— Find modern IT solutions\n— And create your personal brand\n\n💎 *Let's create great things together!*\n\n👇 *Please select the desired section from the menu below:*",
+        'welcome': "🌟✨ **GREETINGS, DEAR {name}!** 👋✨\n\n💫 **Welcome to the Digital Future with NOVA.X!**\nWe are absolutely delighted to have you here. This is not just a bot; it is your trusted partner that will take your business and ideas to the next level.\n\n🚀 **What can you achieve with us?**\n🌐 *Perfect Websites:* Design that captivates customers.\n📱 *Mobile Apps:* Your business always by your customer's side.\n📈 *Marketing & SEO:* Brand promotion and sales growth.\n🎨 *Creative Design:* Memorable and modern solutions.\n\n💎 *Your success is our goal! Let's start great changes today.*\n\n👇 **Please, select the desired section from the menu below:**",
         'menu_about': "ℹ️ ABOUT US",
         'menu_services': "🛠️ SERVICES",
         'menu_prices': "💰 PRICES",
