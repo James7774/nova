@@ -66,7 +66,7 @@ print("=" * 70)
 TRANSLATIONS = {
     'uz_lat': {
         'select_lang': "🌍 Iltimos, tilni tanlang:\n🇷🇺 Пожалуйста, выберите язык:\n🇺🇸 Please select a language:",
-        'welcome': "✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨\n🤖 *NOVA.X GA XUSH KELIBSIZ, {name}!* 🎉\n\n🚀 *Raqamli Transformatsiya* sarguzashtingiz boshlanishi!\n\n👇 *Quyidagi menyudan kerakli bo'limni tanlang:*",
+        'welcome': "✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨\n🤖 *ASSALOMU ALAYKUM, {name}!* 👋\n\n🎉 *NOVA.X* botiga xush kelibsiz! Bizni tanlaganingizdan bag'oyat xursandmiz!\n\n🚀 *Siz bu yerda:* \n— Biznesingizni rivojlantirish\n— Zamonaviy IT yechimlar\n— Va shaxsiy brendingizni yaratish imkoniyatiga egasiz\n\n💎 *Keling, birgalikda buyuk ishlarni amalga oshiramiz!*\n\n👇 *Quyidagi menyu orqali kerakli bo'limni tanlang:*",
         'menu_about': "ℹ️ BIZ HAQIMIZDA",
         'menu_services': "🛠️ XIZMATLAR",
         'menu_prices': "💰 NARXLAR",
@@ -102,7 +102,7 @@ TRANSLATIONS = {
     },
     'uz_cyr': {
         'select_lang': "🌍 Илтимос, тилни танланг:",
-        'welcome': "✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨\n🤖 *NOVA.X ГА ХУШ КЕЛИБСИЗ, {name}!* 🎉\n\n🚀 *Рақамли Трансформация* саргузаштингиз бошланиши!\n\n👇 *Қуйидаги менюдан керакли бўлимни танланг:*",
+        'welcome': "✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨\n🤖 *АССАЛОМУ АЛАЙКУМ, {name}!* 👋\n\n🎉 *NOVA.X* ботига хуш келибсиз! Бизни танлаганингиздан бағоят хурсандмиз!\n\n🚀 *Сиз бу ерда:* \n— Бизнесингизни ривожлантириш\n— Замонавий IT ечимлар\n— Ва шахсий брендингизни яратиш имкониятига эгасиз\n\n💎 *Келинг, биргаликда буюк ишларни амалга оширамиз!*\n\n👇 *Қуйидаги меню орқали керакли бўлимни танланг:*",
         'menu_about': "ℹ️ БИЗ ҲАҚИМИЗДА",
         'menu_services': "🛠️ ХИЗМАТЛАР",
         'menu_prices': "💰 НАРХЛАР",
@@ -138,7 +138,7 @@ TRANSLATIONS = {
     },
     'ru': {
         'select_lang': "🌍 Пожалуйста, выберите язык:",
-        'welcome': "✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨\n🤖 *ДОБРО ПОЖАЛОВАТЬ В NOVA.X, {name}!* 🎉\n\n🚀 Ваше приключение в мире *Цифровой Трансформации* начинается!\n\n👇 *Выберите нужный раздел из меню ниже:*",
+        'welcome': "✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨\n🤖 *ПРИВЕТСТВУЕМ ВАС, {name}!* 👋\n\n🎉 Добро пожаловать в бот *NOVA.X*! Мы очень рады, что вы выбрали нас!\n\n🚀 *Здесь вы можете:* \n— Развить свой бизнес\n— Найти современные IT-решения\n— И создать свой личный бренд\n\n💎 *Давайте творить великие дела вместе!*\n\n👇 *Выберите нужный раздел в меню ниже:*",
         'menu_about': "ℹ️ О НАС",
         'menu_services': "🛠️ УСЛУГИ",
         'menu_prices': "💰 ЦЕНЫ",
@@ -174,7 +174,7 @@ TRANSLATIONS = {
     },
     'en': {
         'select_lang': "🌍 Please select a language:",
-        'welcome': "✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨\n🤖 *WELCOME TO NOVA.X, {name}!* 🎉\n\n🚀 Your *Digital Transformation* adventure starts here!\n\n👇 *Select the desired section from the menu below:*",
+        'welcome': "✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨\n🤖 *HELLO, {name}!* 👋\n\n🎉 Welcome to *NOVA.X* bot! We are delighted that you chose us!\n\n🚀 *Here you can:* \n— Grow your business\n— Find modern IT solutions\n— And create your personal brand\n\n💎 *Let's create great things together!*\n\n👇 *Please select the desired section from the menu below:*",
         'menu_about': "ℹ️ ABOUT US",
         'menu_services': "🛠️ SERVICES",
         'menu_prices': "💰 PRICES",
